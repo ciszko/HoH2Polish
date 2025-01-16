@@ -1,0 +1,199 @@
+<lang>
+
+	<string name="item.system.epic_name">%prefix% %suffix%</string>
+	<string name="item.system.eqipment_pfx">%prefix% %base%</string>
+	<string name="item.system.eqipment_sfx">%base% %suffix%</string>
+	<string name="item.system.eqipment_pfx_sfx">%prefix% %base% %suffix%</string>
+
+
+	<string name="equipment.mainhand.axe.1a">Siekiera bojowa</string>
+	<string name="equipment.mainhand.axe.2a">Topór bojowy</string>
+	<string name="equipment.mainhand.axe.3a">Podwójny topór</string>
+	<string name="equipment.mainhand.axe.4a">Topór królewski</string>
+
+	<string name="equipment.mainhand.mace.1a">Buzdygan</string>
+	<string name="equipment.mainhand.mace.2a">Buzdygan z kołnierzem</string>
+	<string name="equipment.mainhand.mace.3a">Buzdygan wojenny</string>
+	<string name="equipment.mainhand.mace.4a">Buzdygan królewski</string>
+
+	<string name="equipment.mainhand.longsword.1a">Długi miecz</string>
+	<string name="equipment.mainhand.longsword.2a">Bastard Sword</string>
+	<string name="equipment.mainhand.longsword.3a">Miecz wojenny</string>
+	<string name="equipment.mainhand.longsword.4a">Platynowy miecz</string>
+
+	<string name="equipment.mainhand.shortsword.1a">Krótki miecz</string>
+	<string name="equipment.mainhand.shortsword.2a">Elegancki miecz</string>
+	<string name="equipment.mainhand.shortsword.3a">Szlachetny miecz</string>
+	<string name="equipment.mainhand.shortsword.4a">Miecz czempiona</string>
+
+	<string name="equipment.mainhand.dagger.1a">Żelazny sztylet</string>
+	<string name="equipment.mainhand.dagger.2a">Stalowy sztylet</string>
+	<string name="equipment.mainhand.dagger.3a">Szlachetny Sztylet</string>
+	<string name="equipment.mainhand.dagger.4a">Majestatyczna Sztylet</string>
+
+	<string name="equipment.mainhand.wand.fire.1a">Ognisty badyl</string>
+	<string name="equipment.mainhand.wand.fire.2a">Różdżka Adepta Ognia</string>
+	<string name="equipment.mainhand.wand.fire.3a">Wielka Różdżka Ognia</string>
+	<string name="equipment.mainhand.wand.fire.4a">Różdżka Mistrza Ognia</string>
+
+	<string name="equipment.mainhand.wand.ice.1a">Lodowy badyl</string>
+	<string name="equipment.mainhand.wand.ice.2a">Różdżka Adepta Mrozu</string>
+	<string name="equipment.mainhand.wand.ice.3a">Różdżka Wielkiego Mrozu</string>
+	<string name="equipment.mainhand.wand.ice.4a">Różdżka Mistrza Lodu</string>
+
+	<string name="equipment.mainhand.wand.lightning.1a">Badyl błyskawic</string>
+	<string name="equipment.mainhand.wand.lightning.2a">Różdżka Adepta Błyskawic</string>
+	<string name="equipment.mainhand.wand.lightning.3a">Wielka Różdżka Błyskawic</string>
+	<string name="equipment.mainhand.wand.lightning.4a">Różdżka Mistrza Błyskawic</string>
+
+
+	<string name="equipment.offhand.dirk.1a">Żelazny Dirk</string>
+	<string name="equipment.offhand.dirk.2a">Stalowy Dirk</string>
+	<string name="equipment.offhand.dirk.3a">Rytualny Kris</string>
+	<string name="equipment.offhand.dirk.4a">Złoty Kris</string>
+
+	<string name="equipment.offhand.shield.1a">Drewniana tarcza</string>
+	<string name="equipment.offhand.shield.2a">Okrągła tarcza</string>
+	<string name="equipment.offhand.shield.3a">Puklerz</string>
+	<string name="equipment.offhand.shield.4a">Zdobiona tarcza</string>
+
+	<string name="equipment.offhand.crossbow.1a">Kusza ręczna</string>
+	<string name="equipment.offhand.crossbow.2a">Kusza ręczna</string>
+	<string name="equipment.offhand.crossbow.3a">Szlachetna kusza ręczna</string>
+	<string name="equipment.offhand.crossbow.4a">Pozłacana kusza ręczna</string>
+
+	<string name="equipment.offhand.tome.fire.1a">Tom Ognia</string>
+	<string name="equipment.offhand.tome.fire.2a">Tom Adepta Ognia</string>
+	<string name="equipment.offhand.tome.fire.3a">Tom Wielkiego Ognia</string>
+	<string name="equipment.offhand.tome.fire.4a">Tom Mistrza Ognia</string>
+
+	<string name="equipment.offhand.tome.ice.1a">Tom Lodu</string>
+	<string name="equipment.offhand.tome.ice.2a">Tom Adepta Lodu</string>
+	<string name="equipment.offhand.tome.ice.3a">Tom Wielkiego Lodu</string>
+	<string name="equipment.offhand.tome.ice.4a">Tom Mistrza Lodu</string>
+
+	<string name="equipment.offhand.tome.lightning.1a">Tom błyskawic</string>
+	<string name="equipment.offhand.tome.lightning.2a">Tom Adepta Błyskawic</string>
+	<string name="equipment.offhand.tome.lightning.3a">Tom Wielkiej Błyskawicy</string>
+	<string name="equipment.offhand.tome.lightning.4a">Tom Mistrza Błyskawic</string>
+
+
+	<string name="equipment.twohanded.daggers.1a">Podwójne Sztylety</string>
+	<string name="equipment.twohanded.daggers.2a">Ciężkie Sztylety</string>
+	<string name="equipment.twohanded.daggers.3a">Zakrzywione Sztylety</string>
+	<string name="equipment.twohanded.daggers.4a">Wielkie Sztylety</string>
+
+	<string name="equipment.twohanded.maul.1a">Drewniany Młot</string>
+	<string name="equipment.twohanded.maul.2a">Młot Bojowy</string>
+	<string name="equipment.twohanded.maul.3a">Młot Wojenny</string>
+	<string name="equipment.twohanded.maul.4a">Młot Tytana</string>
+
+	<string name="equipment.twohanded.greataxe.1a">Wielki Tasak</string>
+	<string name="equipment.twohanded.greataxe.2a">Topór Dwuręczny</string>
+	<string name="equipment.twohanded.greataxe.3a">Ciężki Dwuręczny Topór</string>
+	<string name="equipment.twohanded.greataxe.4a">Wielki Topór Zdobywcy</string>
+
+	<string name="equipment.twohanded.shortbow.1a">Krótki Łuk</string>
+	<string name="equipment.twohanded.shortbow.2a">Łuk Bloczkowy</string>
+	<string name="equipment.twohanded.shortbow.3a">Łuk Elficki</string>
+	<string name="equipment.twohanded.shortbow.4a">Łuk z Piołunu</string>
+
+	<string name="equipment.twohanded.longbow.1a">Długi Łuk</string>
+	<string name="equipment.twohanded.longbow.2a">Łuk Wojenny</string>
+	<string name="equipment.twohanded.longbow.3a">Cesarski łuk</string>
+	<string name="equipment.twohanded.longbow.4a">Łuk ze Smoczej Kości</string>
+
+	<string name="equipment.twohanded.crossbow.1a">Kusza</string>
+	<string name="equipment.twohanded.crossbow.2a">Ciężka kusza</string>
+	<string name="equipment.twohanded.crossbow.3a">Kusza Imperialna</string>
+	<string name="equipment.twohanded.crossbow.4a">Pozłacana kusza</string>
+
+
+	<string name="equipment.twohanded.staff.fire.1a">Laska Ognia</string>
+	<string name="equipment.twohanded.staff.fire.2a">Laska Adepta Ognia</string>
+	<string name="equipment.twohanded.staff.fire.3a">Laska Maga Ognia</string>
+	<string name="equipment.twohanded.staff.fire.4a">Laska Mistrza Ognia</string>
+
+	<string name="equipment.twohanded.staff.ice.1a">Laska Lodu</string>
+	<string name="equipment.twohanded.staff.ice.2a">Laska Adepta Lodu</string>
+	<string name="equipment.twohanded.staff.ice.3a">Laska Maga Lodu</string>
+	<string name="equipment.twohanded.staff.ice.4a">Laska Mistrza Lodu</string>
+
+	<string name="equipment.twohanded.staff.lightning.1a">Laska Błyskawic</string>
+	<string name="equipment.twohanded.staff.lightning.2a">Laska Adepta Błyskawic</string>
+	<string name="equipment.twohanded.staff.lightning.3a">Laska Maga Błyskawic</string>
+	<string name="equipment.twohanded.staff.lightning.4a">Laska Mistrza Błyskawic</string>
+
+
+
+
+
+	<string name="equipment.chest.str.1a">Napierśnik</string>
+	<string name="equipment.chest.str.2a">Zbroja Łuskowa</string>
+	<string name="equipment.chest.str.3a">Zbroja płytowa</string>
+	<string name="equipment.chest.str.4a">Płyta krzyżowca</string>
+	<string name="equipment.chest.dex.1a">Skórzany płaszcz</string>
+	<string name="equipment.chest.dex.2a">Zbroja skórzana</string>
+	<string name="equipment.chest.dex.3a">Skóra z ćwiekami</string>
+	<string name="equipment.chest.dex.4a">Drabiny Brigandine</string>
+	<string name="equipment.chest.int.1a">Prosty szlafrok</string>
+	<string name="equipment.chest.int.2a">Jedwabny strój</string>
+	<string name="equipment.chest.int.3a">Pozłacana szata</string>
+	<string name="equipment.chest.int.4a">Wielka szata</string>
+
+	<string name="equipment.head.str.1a">Żelazna Czapka</string>
+	<string name="equipment.head.str.2a">Stalowy Kask</string>
+	<string name="equipment.head.str.3a">Wielki Hełm</string>
+	<string name="equipment.head.str.4a">Salada Krzyżowca</string>
+	<string name="equipment.head.dex.1a">Czapka materiałowa</string>
+	<string name="equipment.head.dex.1b">Prosta maska</string>
+	<string name="equipment.head.dex.2a">Skórzany kaptur</string>
+	<string name="equipment.head.dex.2b">Maska bandyty</string>
+	<string name="equipment.head.dex.2c">Maska bandyty</string>
+	<string name="equipment.head.dex.3a">Elficki Kaptur</string>
+	<string name="equipment.head.dex.3b">Bandana</string>
+	<string name="equipment.head.dex.3c">Czapka z piórami</string>
+	<string name="equipment.head.dex.4a">Kaptur Mroku</string>
+	
+	<string name="equipment.head.int.1a">Prosta czapka</string>
+	<string name="equipment.head.int.1b">Prosty pierścień</string>
+	<string name="equipment.head.int.2a">Czapka praktykanta</string>
+	<string name="equipment.head.int.2b">Srebrny pierścień</string>
+	<string name="equipment.head.int.3a">Czapka Adept</string>
+	<string name="equipment.head.int.3b">Klejnotowy pierścień</string>
+	<string name="equipment.head.int.4a">Wielki Kapelusz</string>
+	<string name="equipment.head.int.4b">Złoty pierścień</string>
+
+	<string name="equipment.hands.str.1a">Żelazne rękawice</string>
+	<string name="equipment.hands.str.2a">Platerowane rękawice</string>
+	<string name="equipment.hands.str.3a">Pozłacane rękawice</string>
+	<string name="equipment.hands.str.4a">Złote rękawice</string>
+	<string name="equipment.hands.dex.1a">Skórzane bransolety</string>
+	<string name="equipment.hands.dex.2a">Naramienniki z ćwiekami</string>
+	<string name="equipment.hands.dex.3a">Szlachetne bransolety</string>
+	<string name="equipment.hands.dex.4a">Smocze Branzolety</string>
+	<string name="equipment.hands.int.1a">Rękawiczki materiałowe</string>
+	<string name="equipment.hands.int.2a">Aksamitne rękawiczki</string>
+	<string name="equipment.hands.int.3a">Ozdobne rękawiczki</string>
+	<string name="equipment.hands.int.4a">Bogate rękawiczki</string>
+
+	<string name="equipment.feet.str.1a">Żelazne skwarki</string>
+	<string name="equipment.feet.str.2a">Plate Greaves</string>
+	<string name="equipment.feet.str.3a">Imperial Greaves</string>
+	<string name="equipment.feet.str.4a">Nagolenniki ze Smoczej Kości</string>
+	<string name="equipment.feet.dex.1a">Cichobiegi</string>
+	<string name="equipment.feet.dex.2a">Buty Skórzane</string>
+	<string name="equipment.feet.dex.3a">Buty Szlacheckie</string>
+	<string name="equipment.feet.dex.4a">Ekstrawaganckie buty</string>
+	<string name="equipment.feet.int.1a">Kapcie materiałowe</string>
+	<string name="equipment.feet.int.2a">Aksamitne kapcie</string>
+	<string name="equipment.feet.int.3a">Ozdobne kapcie</string>
+	<string name="equipment.feet.int.4a">Królewskie kapcie</string>
+
+	<string name="equipment.back.2a">Peleryna</string>
+	<string name="equipment.back.2b">Płaszcz</string>
+	<string name="equipment.back.4a">Ozdobny Płaszcz</string>
+	<string name="equipment.back.4b">Jedwabny Płaszcz</string>
+
+
+</lang>

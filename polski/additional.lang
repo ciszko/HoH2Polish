@@ -1,0 +1,344 @@
+<lang>
+	<!-- System -->
+
+	<string name="tooltips.equipped">Wyposażony</string>
+
+	<string name="item.info.tooltip.slot.mainhand">Główna ręka</string>
+	<string name="item.info.tooltip.slot.offhand">Z ręki</string>
+	<string name="item.info.tooltip.slot.head">Głowa</string>
+	<string name="item.info.tooltip.slot.chest">Klatka piersiowa</string>
+	<string name="item.info.tooltip.slot.feet">Stopy</string>
+	<string name="item.info.tooltip.slot.hands">Ręce</string>
+	<string name="item.info.tooltip.slot.accessory">Akcesoria</string>
+	<string name="item.info.tooltip.slot.potion">Mikstura</string>
+
+
+
+	<string name="text.openselsewhere">Otwiera się gdzie indziej!</string>
+	<string name="text.needakey">Potrzebuję klucza!</string>
+	<string name="text.needbox">Potrzebuję skrzynki z narzędziami!</string>
+	<string name="text.needpan">Potrzebuję patelni!</string>
+	<string name="text.needaxe">Potrzebuję siekiery!</string>
+	<string name="text.needshovel">Potrzebuję łopaty!</string>
+	<string name="text.needpickaxe">Potrzebuję grubego topora!</string>
+	<string name="text.needreddye">Potrzebuję czerwonego barwnika!</string>
+	<string name="text.needrope">Potrzebuję liny!</string>
+	<string name="text.needladder">Potrzebuję drabiny!</string>
+
+
+
+	<string name="rg_post_phosphor">Post-fosfor</string>
+	<string name="rg_post_phosphor.help">Włącz fosforowy efekt retro</string>
+	<string name="rg_post_bloom">Post Dot and Bloom</string>
+	<string name="rg_post_bloom.help">Włącz efekt retro Dot i Bloom</string>
+
+
+
+
+	<string name="button.shop.more">Więcej</string>
+	<string name="button.shop.tailor">Krawiec</string>
+
+
+
+	<string name="epic.name.wicked">Wicked</string>
+	<string name="epic.name.griffon">Gryfon</string>
+	<string name="epic.name.titan">Tytan</string>
+	<string name="epic.name.fiend">Fiend</string>
+	<string name="epic.name.serpent">Wąż</string>
+	<string name="epic.name.hellion">Hellion</string>
+	<string name="epic.name.imp">Imp</string>
+	<string name="epic.name.colossus">Colossus</string>
+	<string name="epic.name.leviathan">Lewiatan</string>
+	<string name="epic.name.torrent">Torrent</string>
+	<string name="epic.name.macabre">Makabra</string>
+
+
+	<string name="epic.name.gift">Trucizna</string>
+	<string name="epic.name.favor">Przysługa</string>
+	<string name="epic.name.boon">Boon</string>
+	<string name="epic.name.scourge">Plaga</string>
+	<string name="epic.name.legacy">Dziedzictwo</string>
+	<string name="epic.name.insignia">Insygnia</string>
+	<string name="epic.name.fragment">Fragment</string>
+	<string name="epic.name.signet">Sygnet</string>
+	<string name="epic.name.seal">Pieczęć</string>
+	<string name="epic.name.bastion">Bastion</string>
+	<string name="epic.name.citadel">Cytadela</string>
+	<string name="epic.name.wall">Ściana</string>
+	<string name="epic.name.gate">Brama</string>
+	<string name="epic.name.heart">Serce</string>
+	<string name="epic.name.raiment">Szata</string>
+	<string name="epic.name.garb">Garb</string>
+	<string name="epic.name.regalia">Regalia</string>
+	<string name="epic.name.souvenir">Pamiątka</string>
+	<string name="epic.name.token">Token</string>
+	<string name="epic.name.symbol">Symbol</string>
+	<string name="epic.name.emblem">Godło</string>
+	<string name="epic.name.image">Obraz</string>
+	<string name="epic.name.band">Zespół</string>
+	<string name="epic.name.link">Link do</string>
+	<string name="epic.name.circuit">Obwód</string>
+	<string name="epic.name.chain">Łańcuch</string>
+	<string name="epic.name.loop">Pętla</string>
+	<string name="epic.name.knot">Węzeł</string>
+	<string name="epic.name.mark">Mark</string>
+	<string name="epic.name.edge">Krawędź</string>
+	<string name="epic.name.bite">Ugryzienie</string>
+	<string name="epic.name.sting">Sting</string>
+	<string name="epic.name.punch">Punch</string>
+	<string name="epic.name.blade">Liść</string>
+	<string name="epic.name.edge">Krawędź</string>
+	<string name="epic.name.talon">Dom</string>
+	<string name="epic.name.needle">Igła</string>
+	<string name="epic.name.impaler">Impaler</string>
+	<string name="epic.name.razor">Brzytwa</string>
+	<string name="epic.name.twig">Gałązka</string>
+	<string name="epic.name.branch">Oddział</string>
+	<string name="epic.name.script">Skrypt</string>
+	<string name="epic.name.tome">Tom</string>
+	<string name="epic.name.manuscript">Rękopis</string>
+	<string name="epic.name.theory">Teoria</string>
+	<string name="epic.name.article">Artykuł</string>
+	<string name="epic.name.fable">Bajka</string>
+	<string name="epic.name.crusher">Kruszarka</string>
+	<string name="epic.name.mauler">Mauler</string>
+	<string name="epic.name.smasher">Smasher</string>
+	<string name="epic.name.breaker">Wyłącznik</string>
+	<string name="epic.name.volley">Volley</string>
+	<string name="epic.name.barrage">Zapora</string>
+	<string name="epic.name.song">Piosenka</string>
+	<string name="epic.name.wind">Wiatr</string>
+	<string name="epic.name.wing">Skrzydło</string>
+	<string name="epic.name.deluge">Potop</string>
+	<string name="epic.name.eye">Oko</string>
+	<string name="epic.name.gaze">Spojrzenie</string>
+
+	<string name="modifiers.enchant.bone_dust.desc">Zdobycie zabójstwa ma %szansę%% na przywołanie pełzacza.</string>
+	<string name="modifiers.enchant.shambler_claw.desc">Ataki mają %szansę%% na trafienie innego pobliskiego wroga błyskawicą zadającą %dmg% obrażeń od błyskawic.</string>
+	<string name="modifiers.enchant.wasp_stinger.desc">Atak ma %szansę%% na wystrzelenie pocisku z żądłem w losowego wroga.</string>
+	<string name="modifiers.enchant.wasp_stinger.desc2">Rzucenie zaklęcia wystrzeliwuje pocisk z żądłem w losowego wroga.</string>
+	<string name="modifiers.enchant.wolf_liver.desc">%wartość% prędkości ruchu przy pełnym zdrowiu.</string>
+
+	<string name="modifiers.epic.skills.dmg.desc">%c-highlight%%%skillname%\d zadaje %amount%%% zwiększone obrażenia.</string>
+	<string name="modifiers.epic.skills.cd.desc">%c-highlight%%%skillname%\d ma %amount%% skrócony czas odnowienia.</string>
+	<string name="modifiers.epic.skills.costmana.desc">%c-highlight%%%skillname%\d ma %amount%% zmniejszony koszt many.</string>
+	<string name="modifiers.epic.skills.coststamina.desc">%c-highlight%%%skillname%\d ma %amount%% zmniejszony koszt wytrzymałości.</string>
+	<string name="modifiers.epic.skills.speed.desc">%c-highlight%%skillname%\d ma %amount%% zwiększoną szybkość umiejętności.</string>
+	<string name="modifiers.epic.skills.stacksmax.desc">%c-highlight%%%skillname%\d ma %amount% max stacks.</string>
+	<string name="modifiers.epic.skills.stacksduration.desc">%c-highlight%%skillname%\d ma %amount% dłuższy czas trwania.</string>
+	<string name="modifiers.epic.skills.summonmax.desc">%c-highlight%%%skillname%\d ma %amount% max summoned.</string>
+
+	<string name="modifiers.potions.kill_refill_all.desc">%szansa%% na uzupełnienie wszystkich mikstur po zabiciu.</string>
+	<string name="modifiers.potions.kill_refill_charge.desc">%szansa%% na uzupełnienie losowego ładunku mikstury po zabiciu.</string>
+
+	<string name="skills.desc.params.fiend.max">Maksymalne przywołanie czarnoksiężnika:</string>
+
+	<string name="equipment.unique.accessory.expert_3.name">Kocioł ognia</string>
+	<string name="skills.equipment.cauldron_of_fire.desc">Umieszcza kocioł, który wyrzuca małe kule ognia w losowych kierunkach, zadając %ilość% obrażeń od ognia. Czas odnowienia %cd%.</string>
+
+	<string name="equipment.unique.accessory.master_2.name">Elemental Prism</string>
+	<string name="skills.equipment.elemental_prism.desc">Tworzy pryzmat, który emituje trzy obracające się wiązki, po jednej dla każdego żywiołu: Ogień, Lód, Błyskawica. Każda wiązka zadaje %amount% obrażeń odpowiedniego żywiołu. Czas odnowienia %cd%.</string>
+
+	<string name="equipment.unique.chest.master_1.name">Bulwark of Titans</string>
+	<string name="equipment.unique.chest.master_2.name">Koszulka z monetami</string>
+	<string name="equipment.unique.chest.master_2.desc">Po otrzymaniu obrażeń tracisz %amount% złota.</string>
+
+	<string name="equipment.unique.head.apprentice_1.name">Kaptur dla beznadziejnych</string>
+	<string name="equipment.unique.hands.apprentice_1.name">Ponury ogrodnik</string>
+	<string name="equipment.unique.hands.master_1.name">Palce zaklęć</string>
+
+	<string name="equipment.unique.feet.expert_3.name">Sandały Sunwalker</string>
+	<string name="equipment.unique.feet.expert_3.desc">Zadajesz %ilość% obrażeń od ognia wrogom, z którymi się zderzysz. Czas odnowienia efektu %cd%.</string>
+
+	<string name="equipment.unique.rogue.mainhand.adept_1.name">Parowanie sztyletów</string>
+	<string name="equipment.unique.rogue.offhand.master_1.name">Latający Wirtuozi</string>
+
+	<string name="equipment.unique.warlock.offhand.adept_1.name">Uwięzione cierpienie</string>
+	<string name="equipment.unique.warlock.offhand.adept_1.desc">Otrzymując obrażenia, zyskujesz stosy %c-highlight%Soul Essence\d.</string>
+
+	<string name="equipment.unique.wizard.offhand.adept_1.name">Wyrzutnia kamieni</string>
+	<string name="equipment.unique.wizard.offhand.adept_1.desc">Wystrzeliwuje kamienny pocisk, który eksploduje w momencie uderzenia, zadając obrażenia z offhandu.\nMożna naładować, aby zwiększyć prędkość i zasięg pocisku.\nKoszt many: %cost%\nCzas odnowienia: %cd%</string>
+
+	<string name="item.meal.sizzling_essence_tea.name">Herbata Sizzling Essence</string>
+	<string name="item.meal.sizzling_essence_tea.desc">%amount% kosztu zaklęcia i czasu odnowienia zaklęcia. Regeneracja many ustawiona na 0. Działa przez %dur% minut.</string>
+
+	<string name="item.map_bb.name">Mapa Blackbarrow</string>
+	<string name="item.map_bb.desc">Mapa regionu Blackbarrow.</string>
+	
+	<string name="hud.newtier">Nowy poziom!</string>
+	
+	<string name="quest.timedcomp">\"icn-quest-need" To zadanie ma komponent czasowy i musi zostać ukończone w rozsądnym czasie.</string>
+
+	<string name="misc.dmg.immortal">Niezniszczalny!</string>
+
+	<!-- Missing Added 0421 -->
+	<!-- Missing Added 0421 -->
+	<!-- Missing Added 0421 -->
+	<!-- Missing Added 0421 -->
+	<!-- Missing Added 0421 -->
+	
+	
+	<string name="skills.paladin.spell_1.up3.desc">Młotek powróci do ciebie po krótkim opóźnieniu.</string>
+	<string name="skills.rogue.master.passive_1.up1.desc">Zyskujesz szansę na natychmiastowe zabicie wroga na %c-highlight%Low Life\d, gdy zadasz trafienie krytyczne atakiem. Nie działa na bossów.</string>
+	<string name="skills.rogue.master.spell_2.desc">Wślizgujesz się w cień i stajesz się niewykrywalny na krótki czas. Zadanie jakichkolwiek obrażeń spowoduje przedwczesne zakończenie zaklęcia.</string>
+	<string name="skills.warlock.mainhand.up1.desc">Pociski dusz zyskują zdolność wyszukiwania nowych celów po trafieniu. Pociski zadają mniej obrażeń przy każdym trafieniu wroga.</string>
+	<string name="modifiers.misc.experience.desc">%desc%% Przyrost doświadczenia.</string>
+
+	<string name="item.meal.raging_behemoth.desc">%amount% obrażeń. %amount2% kosztu zaklęcia i czasu odnowienia zaklęcia. Działa przez %dur% minut.</string>
+	<string name="item.meal.ghost_jam.desc">%amount% Evasion. Pancerz i odporność na ogień ustawione na 0. Działa przez %dur% minut.</string>
+	<string name="item.meal.pancakes.desc">%amount% przyrostu doświadczenia i %amount2% prędkości ruchu przez %dur% minut.</string>
+	<string name="item.meal.summer_city_platter.desc">%amount% zwiększyło atrybuty na %dur% minut.</string>
+
+	<string name="log.objectives">Cele</string>
+	<string name="log.rewards">Nagrody</string>
+	<string name="log.noquest">Dziennik zadań jest pusty.</string>
+	<string name="log.desc">Opis</string>
+	
+	<string name="text.saving">Oszczędzanie...</string>
+
+	<string name="menu.playerlist.profile.title">Profil</string>
+	<string name="menu.playerlist.profile.tooltip">Otwórz profil tego gracza.</string>
+	<string name="menu.playerlist.kick.title">Kopnięcie</string>
+	<string name="menu.playerlist.kick.tooltip">Kopnij tego gracza.</string>
+	<string name="menu.playerlist.kick.prompt">Czy na pewno chcesz kopnąć %name%?</string>
+	<string name="menu.playerlist.ping">%value% ms</string>
+	<string name="menu.playerlist.host">Gospodarz</string>
+
+
+
+	<string name="item.torch.name">Latarka</string>
+	<string name="item.torch.desc">Sprawia, że wokół jest trochę jaśniej.</string>
+
+
+	<string name="menu.controls.menuaccept">Menu akceptacji</string>
+	<string name="rope.tied">Lina związana!</string>
+	<string name="cred.title.engine2">Napędzany silnikiem A000FF, na którym działa również Serious Sam's Bogus Detour, \nHeroes of Hammerwatch i Hammerwatch II.</string>
+	<string name="menu.lobby.chat.minplayers">Aby rozpocząć, potrzeba co najmniej %min% graczy.</string>
+	<string name="menu.lobby.chat.maxplayers">W tym scenariuszu można mieć co najwyżej %max% graczy.</string>
+	<string name="menu.controls.layout.ds41">DualShock 4 1</string>
+	<string name="menu.controls.layout.ds42">DualShock 4 2</string>
+	<string name="menu.controls.layout.ds43">DualShock 4 3</string>
+	<string name="menu.controls.layout.ds44">DualShock 4 4</string>
+	<string name="menu.loadgame.failed">Nie udało się załadować savegame.</string>
+
+	<string name="button.skip">Pomiń</string>
+
+	<string name="g_autoequip">Autoequip</string>
+	<string name="g_autoequip.help">Automatycznie wyposaża nowy sprzęt, jeśli nie ma jeszcze czegoś w danym slocie.</string>
+
+	<string name="g_quickcast">Quickcast</string>
+	<string name="g_quickcast.help">Rzuca umiejętności natychmiast po użyciu, ignorując krok celowania.</string>
+
+	<string name="ui_show_controlbinds">Wiązania sterujące</string>
+	<string name="ui_show_controlbinds.help">Wyświetlanie podpowiedzi przycisków w interfejsie użytkownika.</string>
+
+	<string name="g_movedir_snap">Przyciąganie kierunku ruchu</string>
+	<string name="g_movedir_snap.help">Ogranicza liczbę różnych kierunków, w których można się poruszać.</string>
+
+	<string name="g_aimdir_snap">Kierunek Celowania</string>
+	<string name="g_aimdir_snap.help">Ogranicza liczbę różnych kierunków, w których można celować.</string>
+
+	<string name="g_charge_movedir">Kierunek ruchu Dash</string>
+	<string name="g_charge_movedir.help">Podczas chodzenia użyj kierunku ruchu, aby rzucić.</string>
+
+	<string name="ui_hud_hpbars_plr">Batony Ally Health</string>
+	<string name="ui_hud_hpbars_plr.help">Wyświetla stan zdrowia sojuszników.</string>
+
+	<string name="menu.controls.actionmenuforward">MENU AKCJI DO PRZODU</string>
+
+	<string name="menu.loadgame.ren">Zmiana nazwy</string>
+	<string name="menu.loadgame.del">Usuń</string>
+	<string name="menu.loadgame.load">Obciążenie</string>
+	<string name="button.save">Zapisz</string>
+
+	<string name="item.error.empty_potion">Mikstura jest pusta! Należy ją uzupełnić!</string>
+
+	<string name="menu.notifier.joinfailed.join">Nie udało się dołączyć do lobby.</string>
+	<string name="menu.notifier.joinfailed.host">Nie udało się utworzyć lobby.</string>
+
+	<string name="misc.dmg.miss">Panienko!</string>
+	<string name="misc.dmg.evade">Unik!</string>
+	<string name="misc.dmg.parry">Parry!</string>
+
+	<string name="menu.player.stats.currpoints">Punkty do wydania: %points%\"icn-attrpt"</string>
+	<string name="menu.player.stats.mainhand">Mainhand</string>
+	<string name="menu.player.stats.offhand">Z ręki</string>
+	<string name="menu.player.stats.damage">Uszkodzenie</string>
+
+	<string name="character.stat.tooltip.evasion.title">Unikanie</string>
+	<string name="character.stat.tooltip.evasion.text">Szansa na uniknięcie ataków.</string>
+	<string name="character.stat.tooltip.parry.title">Parry</string>
+	<string name="character.stat.tooltip.parry.text">Szansa na parowanie frontalnych ataków w walce wręcz.</string>
+
+	<string name="character.stat.tooltip.castspeed.title">Prędkość rzucania</string>
+	<string name="character.stat.tooltip.castspeed.text">To szybkość rzucania zaklęć.</string>
+	<string name="character.stat.tooltip.spellcooldown.title">Czas odnowienia zaklęcia</string>
+	<string name="character.stat.tooltip.spellcooldown.text">Tyle czasu trzeba odczekać przed ponownym rzuceniem zaklęcia.</string>
+	<string name="character.stat.tooltip.spellcritdmg.title">Obrażenia od trafienia krytycznego</string>
+	<string name="character.stat.tooltip.spellcritdmg.text">Tyle obrażeń zadają trafienia krytyczne zaklęć.</string>
+	<string name="character.stat.tooltip.spellcritchance.title">Szansa na trafienie krytyczne zaklęcia</string>
+	<string name="character.stat.tooltip.spellcritchance.text">Szansa na trafienie krytyczne przy użyciu zaklęć.</string>
+
+	<string name="character.stat.tooltip.attackspeed.title">Prędkość ataku</string>
+	<string name="character.stat.tooltip.attackspeed.text">Jest to szybkość wykonywania ataków.</string>
+	<string name="character.stat.tooltip.attackcritdmg.title">Atak krytyczny Obrażenia</string>
+	<string name="character.stat.tooltip.attackcritdmg.text">Tyle obrażeń zadają trafienia krytyczne ataków.</string>
+	<string name="character.stat.tooltip.attackcritchance.title">Szansa na trafienie krytyczne w ataku</string>
+	<string name="character.stat.tooltip.attackcritchance.text">Szansa na trafienie krytyczne przy atakach.</string>
+
+	<string name="character.stat.tooltip.armorbreak.title">Penetracja pancerza</string>
+	<string name="character.stat.tooltip.armorbreak.text">Zmniejsza pancerz celu.</string>
+	<string name="character.stat.tooltip.resistancefirebreak.title">Odporność ogniowa Penetracja</string>
+	<string name="character.stat.tooltip.resistancefirebreak.text">Zmniejsza odporność na ogień celu.</string>
+	<string name="character.stat.tooltip.resistanceicebreak.title">Odporność na lód Penetracja</string>
+	<string name="character.stat.tooltip.resistanceicebreak.text">Zmniejsza odporność na lód celu.</string>
+	<string name="character.stat.tooltip.resistancelightningbreak.title">Odporność na błyskawice Penetracja</string>
+	<string name="character.stat.tooltip.resistancelightningbreak.text">Zmniejsza odporność na błyskawice celu.</string>
+	<string name="character.stat.tooltip.resistancepoisonbreak.title">Odporność na truciznę Penetracja</string>
+	<string name="character.stat.tooltip.resistancepoisonbreak.text">Zmniejsza odporność celu na truciznę.</string>
+
+	<string name="skills.equipment.archon_nova.name">Essence Nova</string>
+	<string name="skills.equipment.archon_nova.desc">Wyrzuca kilka wirujących pocisków zadających %dmg% obrażeń od ognia i czystej krwi. Czas odnowienia %cd%.</string>
+	<string name="skills.equipment.thunderbird_lightning.name">Call Lightning</string>
+	<string name="skills.equipment.thunderbird_lightning.desc">Przywołuje serię błyskawic w kierunku przed siebie, zadając %dmg% obrażeń od błyskawic. Czas odnowienia %cd%.</string>
+	<string name="modifiers.class.warlock.fiends_add.desc">Możesz przywołać %value% dodatkowe %c-highlight%Fiends\d.</string>
+	<string name="modifiers.class.wizard.duplicate_add.desc">Możesz przywołać %value% dodatkowe %c-highlight%Duplicate\d.</string>
+
+	<string name="skills.desc.params.projectile.dmg">Obrażenia od pocisków:</string>
+	<string name="modifiers.misc.attack_hit_health_chance.desc">%szansa%% na przywrócenie %wartości% zdrowia przy trafieniu atakiem.</string>
+	<string name="modifiers.misc.attack_hit_stamina_chance.desc">%szansa%% na przywrócenie %wartości% wytrzymałości przy trafieniu atakiem.</string>
+	<string name="modifiers.misc.attack_hit_mana_chance.desc">%szansa%% na przywrócenie %wartości% many przy trafieniu atakiem.</string>
+	<string name="modifiers.enchant.blackheart.prefix">Blackheart</string>
+	<string name="modifiers.enchant.blackheart.suffix">korupcji</string>
+	<string name="modifiers.damage_taken.desc">%desc%% więcej otrzymanych obrażeń.</string>
+
+
+	<string name="menu.player.stats.mainhand">Mainhand</string>
+	<string name="menu.player.stats.offhand">Z ręki</string>
+	<string name="menu.player.stats.damage">Uszkodzenie</string>
+
+
+	<string name="dialogue.player_door_locked_generic">Zamknięte!</string>
+
+	<string name="enemy.ghost_priest.name">Duch kapłana</string>
+
+	<!-- Missing Added 0911 -->
+	<!-- Missing Added 0911 -->
+	<!-- Missing Added 0911 -->
+	<!-- Missing Added 0911 -->
+	<!-- Missing Added 0911 -->
+
+	<string name="menu.pick_character.title">Wybierz postać</string>
+	<string name="menu.pick_character.createnew">Tworzenie nowej postaci</string>
+	<string name="menu.pick_character.localsave">Lokalne oszczędności</string>
+
+	<string name="o.press.specific.key">Naciśnij %key%</string>
+
+	<string name="o.press.specific.key.to.join">Naciśnij %key%, aby dołączyć do sesji.</string>
+
+	<string name="menu.options.legacy.control.title">Legacy Controls</string>
+	<string name="menu.options.legacy.control.desc">Emuluje oryginalne sterowanie i obsługę z Hammerwatch, wydanego w 2013 roku.</string>
+	<string name="menu.controls.hold">POZYCJA WSTRZYMANIA</string>
+
+
+</lang>
