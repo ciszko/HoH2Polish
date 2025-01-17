@@ -233,9 +233,9 @@
 	<string name="mainmenu.singleplayer">Singleplayer</string>
 	<string name="mainmenu.options">Opcje</string>
 	<string name="mainmenu.extras">Dodatki</string>
-	<string name="mainmenu.quit">Odejdź</string>
+	<string name="mainmenu.quit">Wyjście do pulpitu</string>
 	<string name="mainmenu.discord">Discord</string>
-	<string name="mainmenu.leave">Zostaw grę</string>
+	<string name="mainmenu.leave">Opuść rozgrywkę</string>
 	<string name="mainmenu.playerlist">Lobby</string>
 	<string name="mainmenu.abandon">Porzuć Przygodę</string>
 
@@ -1110,7 +1110,7 @@
 	
 	<string name="stat.icon.armor">\"icn-res-phys"</string>
 	<string name="stat.name.armor">Pancerz</string>
-	<string name="stat.icon.resistancefire">\"icn-res-fire"<string>
+	<string name="stat.icon.resistancefire">\"icn-res-fire"</string>
 	<string name="stat.name.resistancefire">Odporność na ogień</string>
 	<string name="stat.icon.resistanceice">\"icn-res-ice"</string>
 	<string name="stat.name.resistanceice">Odporność na lód</string>
