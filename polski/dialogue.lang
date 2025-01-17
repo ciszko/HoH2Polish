@@ -15,9 +15,9 @@
 	<string name="building.trading_post.name">Punkt handlowy</string>
 	<string name="building.tailor.name">Krawiec</string>
 
-	<string name="building.tier">Zwierzę %zwierzę%</string>
+	<string name="building.tier">Poziom %tier%</string>
 	<string name="building.build.new">Zbuduj nowy</string>
-	<string name="building.build.upgrade">Aktualizacja do poziomu %num%</string>
+	<string name="building.build.upgrade">Ulepsz do poziomu %num%</string>
 
 
 
@@ -72,7 +72,7 @@
 	
 	<string name="npc.shop.athlete">Sportowiec</string>
 	<string name="upgrades.dash_charges.name">Dash Charges %num%</string>
-	<string name="upgrades.dash_charges.desc">+%wzrost% ładunku kreskowego</string>
+	<string name="upgrades.dash_charges.desc">+%gain% ładunku kreskowego</string>
 	<string name="upgrades.dash_recharge.name">Dash Recharge %num%</string>
 	<string name="upgrades.dash_recharge.desc">-%gain%% Czas ładowania Dasha</string>
 	<string name="upgrades.move_speed.name">Prędkość ruchu %num%</string>
@@ -82,11 +82,11 @@
 	
 	<string name="npc.shop.mystic">Mystic</string>
 	<string name="upgrades.ele_res.name">Odporność na żywioły %num%</string>
-	<string name="upgrades.ele_res.desc">+% więcej odporności na ogień, lód i błyskawice</string>
+	<string name="upgrades.ele_res.desc">+%gain% więcej odporności na ogień, lód i błyskawice</string>
 	<string name="upgrades.mana_pickups.name">Zbiory many %num%</string>
-	<string name="upgrades.mana_pickups.desc">+%gain%% przyrostu ilości zebranej many</string>
+	<string name="upgrades.mana_pickups.desc">+%gain%% ilości zebranej many</string>
 	<string name="upgrades.spell_power.name">Moc zaklęć %num%</string>
-	<string name="upgrades.spell_power.desc">+% wzrost mocy zaklęć</string>
+	<string name="upgrades.spell_power.desc">+%gain% mocy zaklęć</string>
 
 	<string name="npc.shop.attribute_assigner">Przypisywanie atrybutów</string>
 	<string name="npc.shop.material_trader">Materiały handlowe</string>

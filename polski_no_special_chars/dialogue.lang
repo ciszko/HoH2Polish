@@ -15,9 +15,9 @@
 	<string name="building.trading_post.name">Punkt handlowy</string>
 	<string name="building.tailor.name">Krawiec</string>
 
-	<string name="building.tier">Zwierze %zwierze%</string>
+	<string name="building.tier">Poziom %tier%</string>
 	<string name="building.build.new">Zbuduj nowy</string>
-	<string name="building.build.upgrade">Aktualizacja do poziomu %num%</string>
+	<string name="building.build.upgrade">Ulepsz do poziomu %num%</string>
 
 
 
@@ -71,18 +71,18 @@
 	<string name="upgrades.poison_res.desc">+% wzrost odpornosci na trucizne</string>
 	
 	<string name="npc.shop.athlete">Sportowiec</string>
-	<string name="upgrades.dash_charges.name">Dash Charges %num%</string>
-	<string name="upgrades.dash_charges.desc">+%wzrost% ladunku kreskowego</string>
-	<string name="upgrades.dash_recharge.name">Dash Recharge %num%</string>
-	<string name="upgrades.dash_recharge.desc">-%gain%% Czas ladowania Dasha</string>
+	<string name="upgrades.dash_charges.name">Ilość Dashy %num%</string>
+	<string name="upgrades.dash_charges.desc">+%gain% Dashy</string>
+	<string name="upgrades.dash_recharge.name">Czas Odnowienia Dasha %num%</string>
+	<string name="upgrades.dash_recharge.desc">-%gain%% Czasu ladowania Dasha</string>
 	<string name="upgrades.move_speed.name">Predkosc ruchu %num%</string>
-	<string name="upgrades.move_speed.desc">+% wzrost% predkosci ruchu</string>
+	<string name="upgrades.move_speed.desc">+%gain% predkosci ruchu</string>
 	<string name="upgrades.health_pickups.name">Odbior zdrowia %num%</string>
 	<string name="upgrades.health_pickups.desc">+%gain%% przyrostu punktow zdrowia</string>
 	
 	<string name="npc.shop.mystic">Mystic</string>
 	<string name="upgrades.ele_res.name">Odpornosc na zywioly %num%</string>
-	<string name="upgrades.ele_res.desc">+% wiecej odpornosci na ogien, lod i blyskawice</string>
+	<string name="upgrades.ele_res.desc">+%gain% wiecej odpornosci na ogien, lod i blyskawice</string>
 	<string name="upgrades.mana_pickups.name">Zbiory many %num%</string>
 	<string name="upgrades.mana_pickups.desc">+%gain%% przyrostu ilosci zebranej many</string>
 	<string name="upgrades.spell_power.name">Moc zaklec %num%</string>
