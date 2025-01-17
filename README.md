@@ -8,4 +8,4 @@ Heroes of Hammerwatch 2 Polish Translations
 
 `C:\Program Files (x86)\Steam\steamapps\common\Heroes of Hammerwatch 2\res\language`
 
-W grze przejdź do Opcje > Język > `polski by ciszko`
+W grze przejdź do Opcje > Język > `polski by ciszko` i **ZRESTARTUJ GRĘ!**
