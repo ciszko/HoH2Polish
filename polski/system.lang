@@ -673,7 +673,7 @@
 	<string name="menu.shady_trader.trade">=== HANDEL ==></string>
 	<string name="menu.thunderbird.nothing">Nie masz co odesłać do miasta.</string>
 	<string name="menu.thunderbird.sendback">Czy chcesz wysłać z powrotem \n%mats% do miasta?</string>
-	<string name="menu.shadow_rift.cursecost">+%kwota% Klątwa Cienia</string>
+	<string name="menu.shadow_rift.cursecost">+%gain% Klątwa Cienia</string>
 	<string name="menu.shadow_rift.pick">Wybierz dowolną liczbę prezentów:</string>
 	<string name="menu.shadow_rift.picked">Ty wybrałeś:</string>
 	<string name="menu.subclass.title">Promocja klasy</string>

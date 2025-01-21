@@ -673,7 +673,7 @@
 	<string name="menu.shady_trader.trade">=== HANDEL ==&gt;</string>
 	<string name="menu.thunderbird.nothing">Nie masz co odeslac do miasta.</string>
 	<string name="menu.thunderbird.sendback">Czy chcesz wyslac z powrotem \n%mats% do miasta?</string>
-	<string name="menu.shadow_rift.cursecost">+%kwota% Klatwa Cienia</string>
+	<string name="menu.shadow_rift.cursecost">+%gain% Klatwa Cienia</string>
 	<string name="menu.shadow_rift.pick">Wybierz dowolna liczbe prezentow:</string>
 	<string name="menu.shadow_rift.picked">Ty wybrales:</string>
 	<string name="menu.subclass.title">Promocja klasy</string>
@@ -1060,7 +1060,7 @@
 	<string name="stat.icon.cripple">\cb0dfffKalectwo\d</string>
 	<string name="stat.name.cripple">Zmniejsza szybkosc ruchu o 65% na 4 sek.</string>
 	<string name="stat.icon.freeze">\cb0dfffZamrozenie\d</string>
-	<string name="stat.name.freeze">Zatrzymal sie na 2,5 sekundy, uniemozliwiajac ruch i umiejetnosci.</string>
+	<string name="stat.name.freeze">Zatrzymuje na 2,5 sekundy, uniemozliwiajac ruch i umiejetnosci.</string>
 
 
 
@@ -1072,7 +1072,7 @@
 	<string name="stat.custom.dustgain">Wzmocnienie pylu</string>
 	<string name="stat.custom.fraggain">Przyrost fragmentu</string>
 	<string name="stat.custom.scursegain">Zysk z klatwy cienia</string>
-	<string name="stat.custom.damage">Uszkodzenie</string>
+	<string name="stat.custom.damage">Obrazenia</string>
 	<string name="stat.custom.mainhanddamage">Obrazenia glownej reki</string>
 	<string name="stat.custom.offhanddamage">Obrazenia od reki</string>
 
@@ -1120,7 +1120,7 @@
 	<string name="stat.name.resistancepoison">Odpornosc na trucizne</string>
 	
 	
-	<string name="stat.icon.damage">D</string>
+	<string name="stat.icon.damage">\"icn-dmg"</string>
 	<string name="stat.name.damage">Obrazenia</string>
 	<string name="stat.icon.damagephysical">\"icn-dmg-phys"</string>
 	<string name="stat.name.damagephysical">Obrazenia fizyczne</string>

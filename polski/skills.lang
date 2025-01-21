@@ -1213,12 +1213,12 @@
 	<string name="modifiers.defences.block.lightning.desc">Blokuje %wartość% obrażeń od błyskawic.</string>
 	<string name="modifiers.defences.block.poison.desc">Blokuje %wartość% obrażeń od trucizny.</string>
 	<string name="modifiers.defences.block.any.desc">Blokuje %wartość% obrażeń.</string>
-	<string name="modifiers.defences.block_chance.physical.desc">%szans%% na zablokowanie %wartości% obrażeń fizycznych.</string>
-	<string name="modifiers.defences.block_chance.fire.desc">%szans%% na zablokowanie %wartości% obrażeń od ognia.</string>
-	<string name="modifiers.defences.block_chance.ice.desc">%szans%% na zablokowanie %wartości% obrażeń od lodu.</string>
-	<string name="modifiers.defences.block_chance.lightning.desc">%szans%% na zablokowanie %wartości% obrażeń od błyskawic.</string>
-	<string name="modifiers.defences.block_chance.poison.desc">%szans%% na zablokowanie %wartości% obrażeń od trucizny.</string>
-	<string name="modifiers.defences.block_chance.any.desc">%szans%% na zablokowanie %wartości% obrażeń.</string>
+	<string name="modifiers.defences.block_chance.physical.desc">%chance%% na zablokowanie %wartości% obrażeń fizycznych.</string>
+	<string name="modifiers.defences.block_chance.fire.desc">%chance%% na zablokowanie %wartości% obrażeń od ognia.</string>
+	<string name="modifiers.defences.block_chance.ice.desc">%chance%% na zablokowanie %wartości% obrażeń od lodu.</string>
+	<string name="modifiers.defences.block_chance.lightning.desc">%chance%% na zablokowanie %wartości% obrażeń od błyskawic.</string>
+	<string name="modifiers.defences.block_chance.poison.desc">%chance%% na zablokowanie %wartości% obrażeń od trucizny.</string>
+	<string name="modifiers.defences.block_chance.any.desc">%chance%% na zablokowanie %wartości% obrażeń.</string>
 
 	<string name="modifiers.damage.all.prefix"></string>
 	<string name="modifiers.damage.all.suffix">Unicestwienia</string>

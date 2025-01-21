@@ -113,9 +113,9 @@
 	<string name="epic.name.eye">Oko</string>
 	<string name="epic.name.gaze">Spojrzenie</string>
 
-	<string name="modifiers.enchant.bone_dust.desc">Zdobycie zabójstwa ma %szansę%% na przywołanie pełzacza.</string>
-	<string name="modifiers.enchant.shambler_claw.desc">Ataki mają %szansę%% na trafienie innego pobliskiego wroga błyskawicą zadającą %dmg% obrażeń od błyskawic.</string>
-	<string name="modifiers.enchant.wasp_stinger.desc">Atak ma %szansę%% na wystrzelenie pocisku z żądłem w losowego wroga.</string>
+	<string name="modifiers.enchant.bone_dust.desc">Zdobycie zabójstwa ma %chance%% na przywołanie pełzacza.</string>
+	<string name="modifiers.enchant.shambler_claw.desc">Ataki mają %chance%% na trafienie innego pobliskiego wroga błyskawicą zadającą %dmg% obrażeń od błyskawic.</string>
+	<string name="modifiers.enchant.wasp_stinger.desc">Atak ma %chance%% na wystrzelenie pocisku z żądłem w losowego wroga.</string>
 	<string name="modifiers.enchant.wasp_stinger.desc2">Rzucenie zaklęcia wystrzeliwuje pocisk z żądłem w losowego wroga.</string>
 	<string name="modifiers.enchant.wolf_liver.desc">%wartość% prędkości ruchu przy pełnym zdrowiu.</string>
 
@@ -256,18 +256,18 @@
 	<string name="menu.notifier.joinfailed.join">Nie udało się dołączyć do lobby.</string>
 	<string name="menu.notifier.joinfailed.host">Nie udało się utworzyć lobby.</string>
 
-	<string name="misc.dmg.miss">Panienko!</string>
+	<string name="misc.dmg.miss">Pudło!</string>
 	<string name="misc.dmg.evade">Unik!</string>
-	<string name="misc.dmg.parry">Parry!</string>
+	<string name="misc.dmg.parry">Blok!</string>
 
 	<string name="menu.player.stats.currpoints">Punkty do wydania: %points%\"icn-attrpt"</string>
-	<string name="menu.player.stats.mainhand">Mainhand</string>
-	<string name="menu.player.stats.offhand">Z ręki</string>
-	<string name="menu.player.stats.damage">Uszkodzenie</string>
+	<string name="menu.player.stats.mainhand">Główna</string>
+	<string name="menu.player.stats.offhand">Dodatkowa</string>
+	<string name="menu.player.stats.damage">Obrażenia</string>
 
-	<string name="character.stat.tooltip.evasion.title">Unikanie</string>
+	<string name="character.stat.tooltip.evasion.title">Unik</string>
 	<string name="character.stat.tooltip.evasion.text">Szansa na uniknięcie ataków.</string>
-	<string name="character.stat.tooltip.parry.title">Parry</string>
+	<string name="character.stat.tooltip.parry.title">Blok</string>
 	<string name="character.stat.tooltip.parry.text">Szansa na parowanie frontalnych ataków w walce wręcz.</string>
 
 	<string name="character.stat.tooltip.castspeed.title">Prędkość rzucania</string>
@@ -315,7 +315,7 @@
 
 	<string name="menu.player.stats.mainhand">Mainhand</string>
 	<string name="menu.player.stats.offhand">Z ręki</string>
-	<string name="menu.player.stats.damage">Uszkodzenie</string>
+	<string name="menu.player.stats.damage">Obrażenia</string>
 
 
 	<string name="dialogue.player_door_locked_generic">Zamknięte!</string>

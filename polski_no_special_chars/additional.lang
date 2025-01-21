@@ -113,9 +113,9 @@
 	<string name="epic.name.eye">Oko</string>
 	<string name="epic.name.gaze">Spojrzenie</string>
 
-	<string name="modifiers.enchant.bone_dust.desc">Zdobycie zabojstwa ma %szanse%% na przywolanie pelzacza.</string>
-	<string name="modifiers.enchant.shambler_claw.desc">Ataki maja %szanse%% na trafienie innego pobliskiego wroga blyskawica zadajaca %dmg% obrazen od blyskawic.</string>
-	<string name="modifiers.enchant.wasp_stinger.desc">Atak ma %szanse%% na wystrzelenie pocisku z zadlem w losowego wroga.</string>
+	<string name="modifiers.enchant.bone_dust.desc">Zdobycie zabojstwa ma %chance%% na przywolanie pelzacza.</string>
+	<string name="modifiers.enchant.shambler_claw.desc">Ataki maja %chance%% na trafienie innego pobliskiego wroga blyskawica zadajaca %dmg% obrazen od blyskawic.</string>
+	<string name="modifiers.enchant.wasp_stinger.desc">Atak ma %chance%% na wystrzelenie pocisku z zadlem w losowego wroga.</string>
 	<string name="modifiers.enchant.wasp_stinger.desc2">Rzucenie zaklecia wystrzeliwuje pocisk z zadlem w losowego wroga.</string>
 	<string name="modifiers.enchant.wolf_liver.desc">%wartosc% predkosci ruchu przy pelnym zdrowiu.</string>
 
