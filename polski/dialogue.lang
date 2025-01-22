@@ -56,19 +56,19 @@
 	<string name="upgrades.armor.name">Pancerz %num%</string>
 	<string name="upgrades.armor.desc">+%gain% armor</string>
 	<string name="upgrades.attack_power.name">Broń %num%</string>
-	<string name="upgrades.attack_power.desc">+% wzrost mocy broni</string>
+	<string name="upgrades.attack_power.desc">+%gain% mocy broni</string>
 	<string name="upgrades.attack_speed.name">Szybkość broni %num%</string>
 	<string name="upgrades.attack_speed.desc">+%gain% prędkości broni</string>
 	
 	<string name="npc.shop.apothecary">Apteka</string>
 	<string name="upgrades.potion_charges.name">Ładunki mikstur %num%</string>
-	<string name="upgrades.potion_charges.desc">+% doładowania mikstury</string>
+	<string name="upgrades.potion_charges.desc">+%gain% ładunków mikstury</string>
 	<string name="upgrades.potion_health.name">Mikstura zdrowia %num%</string>
 	<string name="upgrades.potion_health.desc">Mikstura leczy za %to% zamiast %from%.</string>
 	<string name="upgrades.potion_mana.name">Mikstura many %num%</string>
 	<string name="upgrades.potion_mana.desc">Mikstura daje %to% many zamiast %from%.</string>
 	<string name="upgrades.poison_res.name">Odporność na truciznę %num%</string>
-	<string name="upgrades.poison_res.desc">+% wzrost odporności na truciznę</string>
+	<string name="upgrades.poison_res.desc">+%gain% odporności na truciznę</string>
 	
 	<string name="npc.shop.athlete">Sportowiec</string>
 	<string name="upgrades.dash_charges.name">Dash Charges %num%</string>
@@ -76,7 +76,7 @@
 	<string name="upgrades.dash_recharge.name">Odnowienie Dasha %num%</string>
 	<string name="upgrades.dash_recharge.desc">-%gain%% Czas ładowania Dasha</string>
 	<string name="upgrades.move_speed.name">Prędkość ruchu %num%</string>
-	<string name="upgrades.move_speed.desc">+% wzrost% prędkości ruchu</string>
+	<string name="upgrades.move_speed.desc">+%gain%% prędkości ruchu</string>
 	<string name="upgrades.health_pickups.name">Odbiór zdrowia %num%</string>
 	<string name="upgrades.health_pickups.desc">+%gain%% przyrostu punktów zdrowia</string>
 	

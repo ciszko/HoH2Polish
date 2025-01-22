@@ -628,20 +628,20 @@
 
 	<string name="skills.sorcerer.spell_2.name">Kula żywiołów</string>
 	<string name="skills.sorcerer.spell_2.desc">Wyczarowujesz wolno poruszającą się kulę, która nieustannie zadaje obrażenia od wszystkich żywiołów pobliskim wrogom.</string>
-	<string name="skills.sorcerer.spell_2.up1.name">Adaptive Orb</string>
+	<string name="skills.sorcerer.spell_2.up1.name">Adaptacyjna Kula</string>
 	<string name="skills.sorcerer.spell_2.up1.desc">Jeśli podczas rzucania zaklęcia masz \cb0dfffElemental Affinity\d, kula zada obrażenia tylko od odpowiedniego żywiołu.</string>
 	<string name="skills.sorcerer.spell_2.up2.name">Stabilna kula</string>
 	<string name="skills.sorcerer.spell_2.up2.desc">Wydłuża żywotność kuli.</string>
-	<string name="skills.sorcerer.spell_2.up3.name">Elemental Torrent</string>
+	<string name="skills.sorcerer.spell_2.up3.name">Strumień Żywiołów</string>
 	<string name="skills.sorcerer.spell_2.up3.desc">Kula zaczyna teraz wyrzucać mniejsze pociski we wszystkich kierunkach. Pociski te zadają mniejsze obrażenia.</string>
 
-	<string name="skills.sorcerer.passive_1.name">Powinowactwo żywiołów</string>
+	<string name="skills.sorcerer.passive_1.name">Więź Żywiołów</string>
 	<string name="skills.sorcerer.passive_1.desc">Podczas rzucania \cffdfb0Zaklęcia\d zyskujesz \cb0dfffPrzyległość Żywiołów\d tego samego żywiołu co rzucone zaklęcie. Zadajesz więcej obrażeń od odpowiedniego żywiołu, dopóki masz \cb0dfffElemental Affinity\d. W danym momencie możesz mieć aktywny tylko jeden rodzaj żywiołu.</string>
-	<string name="skills.sorcerer.passive_1.up1.name">Oddział żywiołów</string>
+	<string name="skills.sorcerer.passive_1.up1.name">Strażnik Żywiołów</string>
 	<string name="skills.sorcerer.passive_1.up1.desc">Zapewnia dodatkową odporność na ogień, lód i błyskawice na poziom postaci.</string>
 	<string name="skills.sorcerer.passive_1.up2.name">Penetracja żywiołów</string>
 	<string name="skills.sorcerer.passive_1.up2.desc">Zapewnia przenikanie ognia, lodu i błyskawic.</string>
-	<string name="skills.sorcerer.passive_1.up3.name">Elemental Equilibrium</string>
+	<string name="skills.sorcerer.passive_1.up3.name">Równowaga Żywiołów</string>
 	<string name="skills.sorcerer.passive_1.up3.desc">Dopóki posiadasz \cb0dfffElemental Affinity\d, premia do obrażeń jest podwojona dla innych żywiołów.</string>
 
 	<string name="skills.sorcerer.passive_2.name">Wrodzona moc</string>
