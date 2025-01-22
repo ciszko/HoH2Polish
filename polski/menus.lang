@@ -11,18 +11,37 @@
 
 	<string name="option.g_real_names.title">Prawdziwe imiona</string>
 	<string name="option.g_show_pings.title">Pokaż pingi dla wielu graczy</string>
+	<string name="option.ui_plr_names_alpha.title">Przezroczystość imion graczy</string>
 	<string name="option.g_emotes.title">Emotikony dla wielu graczy</string>
-
 
 	<string name="option.ui_cursor_fat.title">Większy celownik</string>
 	<string name="option.ui_cursor_alpha.title">Kursor krycia</string>
 	<string name="option.ui_overlay_minimap_alpha.title">Krycie mapy nakładki</string>
-	<string name="option.ui_hud_hpbars_enemy.title">Paski zdrowia wroga</string>
-	<string name="option.ui_hud_hpbars_plr.title">Ally Healthbars</string>
 	<string name="option.ui_hud_dashbar.title">Gracz Dashbar</string>
 	<string name="option.ui_cursor_health.title">Statystyki kursora</string>
 	<string name="option.g_laser_sight.title">Przewodnik po celach</string>
 	<string name="option.g_quickcast.title">Quickcast</string>
+
+	<string name="option.ui_hud_hpbars_enemy.title">Paski zdrowia wroga</string>
+	<string name="option.ui_hud_hpbars_plr.title">Paski zdrowia graczy</string>
+	<string name="option.ui_hud_hpbars_minion.title">Paski zdrowia minionów</string>
+	<string name="option.ui_hud_hpbars_allied_plr.title">Paski zdrowia sojuszników</string>
+
+	<string name="option.ui_hud_hpbars_color_enemy.title">Enemy Healthbar Color</string>
+	<string name="option.ui_hud_hpbars_color_plr.title">Player Healthbar Color</string>
+	<string name="option.ui_hud_hpbars_color_minion.title">Minion Healthbar Color</string>
+	<string name="option.ui_hud_hpbars_color_allied_plr.title">Ally Healthbar Color</string>
+
+	<string name="option.bar_color.0">Czerwony</string>
+	<string name="option.bar_color.1">Zielony</string>
+	<string name="option.bar_color.2">Żółty</string>
+	<string name="option.bar_color.3">Fioletowy</string>
+	<string name="option.bar_color.4">Niebieski</string>
+	<string name="option.bar_color.5">Pomarańczowy</string>
+	<string name="option.bar_color.6">Szary</string>
+	<string name="option.bar_color.7">Biały</string>
+
+
 
 	<string name="option.g_movedir_snap.title">Przyciąganie kierunku ruchu</string>
 	<string name="option.g_aimdir_snap.title">Kierunek Celowania</string>
@@ -37,6 +56,9 @@
 
 	<string name="option.g_item_pickup_tooltip_trinket.title">Preview Trinket Pickups</string>
 	<string name="option.g_item_pickup_tooltip_equipment.title">Preview Equipment Pickups</string>
+
+	<string name="option.ui_load_screen_brightness.title">Load Screen Brightness</string>
+
 
 
 	<!-- Graphics -->
@@ -67,5 +89,7 @@
 	<string name="option.snd_volume_voice.title">Głos</string>
 	<string name="option.snd_volume_env.title">Środowisko</string>
 	<string name="option.snd_volume_ui.title">Interfejs</string>
+	<string name="option.g_combo_sound.title">Combo Sound Loop</string>
+
 
 </lang>
