@@ -154,7 +154,7 @@
 	<string name="menu.player.mods.stats.resources">Zasoby</string>
 
 	<string name="menu.player.mods.effects.shadow_curse.name">Klątwa Cienia</string>
-	<string name="menu.player.mods.effects.shadow_curse.desc">Zmniejsza pancerz i odporności o %amnt-ogółem%. %amnt-stack% na stos.</string>
+	<string name="menu.player.mods.effects.shadow_curse.desc">Zmniejsza pancerz i odporności o %amnt-ogółem%. %amnt-stack% na ładunek.</string>
 
 
 	<string name="menu.player.skills.currpoints">Punkty do wydania: %points%\"icn-skillpt"</string>
@@ -299,8 +299,8 @@
 	<string name="building.magic_shop.desc2">Odblokowuje więcej ulepszeń magicznych. Odblokowuje więcej sfer umiejętności do wyboru.</string>
 	<string name="building.magic_shop.desc3">Odblokowuje więcej magicznych ulepszeń.</string>
 
-	<string name="building.pyre.name">Pyre</string>
-	<string name="building.pyre.desc1">-20% przyrostu klątwy cienia</string>
+	<string name="building.pyre.name">Stos Pogrzebowy</string>
+	<string name="building.pyre.desc1">-20% klątwy cienia</string>
 
 	<string name="building.tailor.name">Krawiec</string>
 	<string name="building.tailor.desc1">Nic nie robi.</string>
@@ -323,9 +323,9 @@
 
 
 
-	<string name="building.tier">Zwierzę %zwierzę%</string>
+	<string name="building.tier">Poziom %tier%</string>
 	<string name="building.build.new">Zbuduj nowy</string>
-	<string name="building.build.upgrade">Aktualizacja do poziomu %num%</string>
+	<string name="building.build.upgrade">Ulepsza do poziomu %num%</string>
 
 
 	<string name="weapon_mastery.bonus.first">Dodaje %add% obrażeń.</string>
@@ -333,21 +333,21 @@
 
 	<string name="weapon_mastery.maces">Maczugi</string>
 	<string name="weapon_mastery.swords">Miecze</string>
-	<string name="weapon_mastery.axes">Osie</string>
+	<string name="weapon_mastery.axes">Topory</string>
 	<string name="weapon_mastery.daggers">Sztylety</string>
 	<string name="weapon_mastery.bows">Łuki</string>
 	<string name="weapon_mastery.crossbows">Kusze</string>
 	<string name="weapon_mastery.wands">Różdżki</string>
 	<string name="weapon_mastery.tomes">Tomy</string>
-	<string name="weapon_mastery.staffs">Klepki</string>
+	<string name="weapon_mastery.staffs">Kostury</string>
 
 
 
-	<string name="architect.cost_mul">Mul: %mul%</string>
+	<string name="architect.cost_mul">Multiplikator: %mul%</string>
 
 	<string name="architect.far_sight.name">Dalekowzroczność</string>
-	<string name="architect.far_sight.desc">Mapa została zbadana.</string>
-	<string name="architect.way_gates.name">Way Gates</string>
+	<string name="architect.far_sight.desc">Zbadana mapa.</string>
+	<string name="architect.way_gates.name">Portale</string>
 	<string name="architect.way_gates.desc">Szybkie przemieszczanie się między interesującymi miejscami.</string>
 	<string name="architect.toppled_towers.name">Przewrócone wieże</string>
 	<string name="architect.toppled_towers.desc">Wieże są niszczone.</string>
@@ -358,12 +358,12 @@
 	<string name="architect.fewer_elites.name">Słabe szkolenie</string>
 	<string name="architect.fewer_elites.desc">Mniej elitarnych przeciwników na poziomach.</string>
 	<string name="architect.more_pyre.name">Sprawiedliwe płomienie</string>
-	<string name="architect.more_pyre.desc">Większa szansa na znalezienie Pyre.</string>
+	<string name="architect.more_pyre.desc">Większa szansa na znalezienie Stosów Pogrzebowych.</string>
 	<string name="architect.more_treasury.name">Poszukiwanie skarbów</string>
-	<string name="architect.more_treasury.desc">Większa szansa na znalezienie Skarbu Państwa.</string>
-	<string name="architect.material_farmer.name">Material Mania</string>
+	<string name="architect.more_treasury.desc">Większa szansa na znalezienie Wielkiego Skarbu.</string>
+	<string name="architect.material_farmer.name">Materiałomania</string>
 	<string name="architect.material_farmer.desc">Zastępuje skrzynie z bibelotami skrytkami z zasobami, a zwoje doświadczenia materiałami.</string>
-	<string name="architect.insta_revive.name">Quick Fix</string>
+	<string name="architect.insta_revive.name">Szybkie Wskrzeszanie</string>
 	<string name="architect.insta_revive.desc">Skrócono czas odradzania innych w trybie wieloosobowym do 0.</string>
 
 
@@ -673,7 +673,7 @@
 	<string name="menu.shady_trader.trade">=== HANDEL ==></string>
 	<string name="menu.thunderbird.nothing">Nie masz co odesłać do miasta.</string>
 	<string name="menu.thunderbird.sendback">Czy chcesz wysłać z powrotem \n%mats% do miasta?</string>
-	<string name="menu.shadow_rift.cursecost">+%kwota% Klątwa Cienia</string>
+	<string name="menu.shadow_rift.cursecost">+%gain% Klątwa Cienia</string>
 	<string name="menu.shadow_rift.pick">Wybierz dowolną liczbę prezentów:</string>
 	<string name="menu.shadow_rift.picked">Ty wybrałeś:</string>
 	<string name="menu.subclass.title">Promocja klasy</string>

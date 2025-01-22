@@ -8,16 +8,16 @@
 	<string name="building.enchanter.name">Zaklinacz</string>
 	<string name="building.tavern.name">Tawerna</string>
 	<string name="building.chapel.name">Kaplica</string>
-	<string name="building.pyre.name">Pyre</string>
+	<string name="building.pyre.name">Stos</string>
 	<string name="building.architect.name">Architekt</string>
 	<string name="building.hunters_cabin.name">Domek myśliwski</string>
 	<string name="building.library.name">Biblioteka</string>
 	<string name="building.trading_post.name">Punkt handlowy</string>
 	<string name="building.tailor.name">Krawiec</string>
 
-	<string name="building.tier">Zwierzę %zwierzę%</string>
+	<string name="building.tier">Poziom %tier%</string>
 	<string name="building.build.new">Zbuduj nowy</string>
-	<string name="building.build.upgrade">Aktualizacja do poziomu %num%</string>
+	<string name="building.build.upgrade">Ulepsz do poziomu %num%</string>
 
 
 
@@ -58,35 +58,35 @@
 	<string name="upgrades.attack_power.name">Broń %num%</string>
 	<string name="upgrades.attack_power.desc">+% wzrost mocy broni</string>
 	<string name="upgrades.attack_speed.name">Szybkość broni %num%</string>
-	<string name="upgrades.attack_speed.desc">+% przyrost% prędkości broni</string>
+	<string name="upgrades.attack_speed.desc">+%gain% prędkości broni</string>
 	
 	<string name="npc.shop.apothecary">Apteka</string>
 	<string name="upgrades.potion_charges.name">Ładunki mikstur %num%</string>
 	<string name="upgrades.potion_charges.desc">+% doładowania mikstury</string>
 	<string name="upgrades.potion_health.name">Mikstura zdrowia %num%</string>
-	<string name="upgrades.potion_health.desc">Mikstura leczy za %do% zamiast %od%.</string>
+	<string name="upgrades.potion_health.desc">Mikstura leczy za %to% zamiast %from%.</string>
 	<string name="upgrades.potion_mana.name">Mikstura many %num%</string>
-	<string name="upgrades.potion_mana.desc">Mikstura daje %do% many zamiast %od%.</string>
+	<string name="upgrades.potion_mana.desc">Mikstura daje %to% many zamiast %from%.</string>
 	<string name="upgrades.poison_res.name">Odporność na truciznę %num%</string>
 	<string name="upgrades.poison_res.desc">+% wzrost odporności na truciznę</string>
 	
 	<string name="npc.shop.athlete">Sportowiec</string>
 	<string name="upgrades.dash_charges.name">Dash Charges %num%</string>
-	<string name="upgrades.dash_charges.desc">+%wzrost% ładunku kreskowego</string>
-	<string name="upgrades.dash_recharge.name">Dash Recharge %num%</string>
+	<string name="upgrades.dash_charges.desc">+%gain% ładunków dashy</string>
+	<string name="upgrades.dash_recharge.name">Odnowienie Dasha %num%</string>
 	<string name="upgrades.dash_recharge.desc">-%gain%% Czas ładowania Dasha</string>
 	<string name="upgrades.move_speed.name">Prędkość ruchu %num%</string>
 	<string name="upgrades.move_speed.desc">+% wzrost% prędkości ruchu</string>
 	<string name="upgrades.health_pickups.name">Odbiór zdrowia %num%</string>
 	<string name="upgrades.health_pickups.desc">+%gain%% przyrostu punktów zdrowia</string>
 	
-	<string name="npc.shop.mystic">Mystic</string>
+	<string name="npc.shop.mystic">Kaznodzieja</string>
 	<string name="upgrades.ele_res.name">Odporność na żywioły %num%</string>
-	<string name="upgrades.ele_res.desc">+% więcej odporności na ogień, lód i błyskawice</string>
+	<string name="upgrades.ele_res.desc">+%gain% więcej odporności na ogień, lód i błyskawice</string>
 	<string name="upgrades.mana_pickups.name">Zbiory many %num%</string>
-	<string name="upgrades.mana_pickups.desc">+%gain%% przyrostu ilości zebranej many</string>
+	<string name="upgrades.mana_pickups.desc">+%gain%% ilości zebranej many</string>
 	<string name="upgrades.spell_power.name">Moc zaklęć %num%</string>
-	<string name="upgrades.spell_power.desc">+% wzrost mocy zaklęć</string>
+	<string name="upgrades.spell_power.desc">+%gain% mocy zaklęć</string>
 
 	<string name="npc.shop.attribute_assigner">Przypisywanie atrybutów</string>
 	<string name="npc.shop.material_trader">Materiały handlowe</string>
@@ -94,8 +94,8 @@
 	<string name="npc.shop.skill_trainer">Trener umiejętności</string>
 	<string name="npc.shop.equipment_upgrade">Modernizacja sprzętu</string>
 	<string name="npc.shop.equipment_enchant">Zaklęty sprzęt</string>
-	<string name="npc.shop.weapon_mastery">Opanowanie broni</string>
-	<string name="npc.shop.trinket_attune">Attune Trinkets</string>
+	<string name="npc.shop.weapon_mastery">Mistrzostwo broni</string>
+	<string name="npc.shop.trinket_attune">Dostrajanie drobiazgów</string>
 
 
 	<string name="npc.shop.builder">Build Building</string>

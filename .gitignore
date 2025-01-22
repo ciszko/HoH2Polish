@@ -1,0 +1,4 @@
+.venv/*
+release/*
+build/*
+scripts/__pycache__

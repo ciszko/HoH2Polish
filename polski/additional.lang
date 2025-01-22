@@ -113,11 +113,11 @@
 	<string name="epic.name.eye">Oko</string>
 	<string name="epic.name.gaze">Spojrzenie</string>
 
-	<string name="modifiers.enchant.bone_dust.desc">Zdobycie zabójstwa ma %szansę%% na przywołanie pełzacza.</string>
-	<string name="modifiers.enchant.shambler_claw.desc">Ataki mają %szansę%% na trafienie innego pobliskiego wroga błyskawicą zadającą %dmg% obrażeń od błyskawic.</string>
-	<string name="modifiers.enchant.wasp_stinger.desc">Atak ma %szansę%% na wystrzelenie pocisku z żądłem w losowego wroga.</string>
+	<string name="modifiers.enchant.bone_dust.desc">Zdobycie zabójstwa ma %chance%% na przywołanie pełzacza.</string>
+	<string name="modifiers.enchant.shambler_claw.desc">Ataki mają %chance%% na trafienie innego pobliskiego wroga błyskawicą zadającą %dmg% obrażeń od błyskawic.</string>
+	<string name="modifiers.enchant.wasp_stinger.desc">Atak ma %chance%% na wystrzelenie pocisku z żądłem w losowego wroga.</string>
 	<string name="modifiers.enchant.wasp_stinger.desc2">Rzucenie zaklęcia wystrzeliwuje pocisk z żądłem w losowego wroga.</string>
-	<string name="modifiers.enchant.wolf_liver.desc">%wartość% prędkości ruchu przy pełnym zdrowiu.</string>
+	<string name="modifiers.enchant.wolf_liver.desc">%value% prędkości ruchu przy pełnym zdrowiu.</string>
 
 	<string name="modifiers.epic.skills.dmg.desc">%c-highlight%%%skillname%\d zadaje %amount%%% zwiększone obrażenia.</string>
 	<string name="modifiers.epic.skills.cd.desc">%c-highlight%%%skillname%\d ma %amount%% skrócony czas odnowienia.</string>
@@ -128,15 +128,15 @@
 	<string name="modifiers.epic.skills.stacksduration.desc">%c-highlight%%skillname%\d ma %amount% dłuższy czas trwania.</string>
 	<string name="modifiers.epic.skills.summonmax.desc">%c-highlight%%%skillname%\d ma %amount% max summoned.</string>
 
-	<string name="modifiers.potions.kill_refill_all.desc">%szansa%% na uzupełnienie wszystkich mikstur po zabiciu.</string>
-	<string name="modifiers.potions.kill_refill_charge.desc">%szansa%% na uzupełnienie losowego ładunku mikstury po zabiciu.</string>
+	<string name="modifiers.potions.kill_refill_all.desc">%chance%% na uzupełnienie wszystkich mikstur po zabiciu.</string>
+	<string name="modifiers.potions.kill_refill_charge.desc">%chance%% na uzupełnienie losowego ładunku mikstury po zabiciu.</string>
 
 	<string name="skills.desc.params.fiend.max">Maksymalne przywołanie czarnoksiężnika:</string>
 
-	<string name="equipment.unique.accessory.expert_3.name">Kocioł ognia</string>
+	<string name="equipment.unique.accessory.expert_3.name">Kocioł Ognia</string>
 	<string name="skills.equipment.cauldron_of_fire.desc">Umieszcza kocioł, który wyrzuca małe kule ognia w losowych kierunkach, zadając %ilość% obrażeń od ognia. Czas odnowienia %cd%.</string>
 
-	<string name="equipment.unique.accessory.master_2.name">Elemental Prism</string>
+	<string name="equipment.unique.accessory.master_2.name">Pryzmat Żywiołów</string>
 	<string name="skills.equipment.elemental_prism.desc">Tworzy pryzmat, który emituje trzy obracające się wiązki, po jednej dla każdego żywiołu: Ogień, Lód, Błyskawica. Każda wiązka zadaje %amount% obrażeń odpowiedniego żywiołu. Czas odnowienia %cd%.</string>
 
 	<string name="equipment.unique.chest.master_1.name">Bulwark of Titans</string>
@@ -206,7 +206,7 @@
 
 
 
-	<string name="item.torch.name">Latarka</string>
+	<string name="item.torch.name">Pochodnia</string>
 	<string name="item.torch.desc">Sprawia, że wokół jest trochę jaśniej.</string>
 
 
@@ -256,18 +256,18 @@
 	<string name="menu.notifier.joinfailed.join">Nie udało się dołączyć do lobby.</string>
 	<string name="menu.notifier.joinfailed.host">Nie udało się utworzyć lobby.</string>
 
-	<string name="misc.dmg.miss">Panienko!</string>
+	<string name="misc.dmg.miss">Pudło!</string>
 	<string name="misc.dmg.evade">Unik!</string>
-	<string name="misc.dmg.parry">Parry!</string>
+	<string name="misc.dmg.parry">Blok!</string>
 
 	<string name="menu.player.stats.currpoints">Punkty do wydania: %points%\"icn-attrpt"</string>
-	<string name="menu.player.stats.mainhand">Mainhand</string>
-	<string name="menu.player.stats.offhand">Z ręki</string>
-	<string name="menu.player.stats.damage">Uszkodzenie</string>
+	<string name="menu.player.stats.mainhand">Główna</string>
+	<string name="menu.player.stats.offhand">Dodatkowa</string>
+	<string name="menu.player.stats.damage">Obrażenia</string>
 
-	<string name="character.stat.tooltip.evasion.title">Unikanie</string>
+	<string name="character.stat.tooltip.evasion.title">Unik</string>
 	<string name="character.stat.tooltip.evasion.text">Szansa na uniknięcie ataków.</string>
-	<string name="character.stat.tooltip.parry.title">Parry</string>
+	<string name="character.stat.tooltip.parry.title">Blok</string>
 	<string name="character.stat.tooltip.parry.text">Szansa na parowanie frontalnych ataków w walce wręcz.</string>
 
 	<string name="character.stat.tooltip.castspeed.title">Prędkość rzucania</string>
@@ -305,9 +305,9 @@
 	<string name="modifiers.class.wizard.duplicate_add.desc">Możesz przywołać %value% dodatkowe %c-highlight%Duplicate\d.</string>
 
 	<string name="skills.desc.params.projectile.dmg">Obrażenia od pocisków:</string>
-	<string name="modifiers.misc.attack_hit_health_chance.desc">%szansa%% na przywrócenie %wartości% zdrowia przy trafieniu atakiem.</string>
-	<string name="modifiers.misc.attack_hit_stamina_chance.desc">%szansa%% na przywrócenie %wartości% wytrzymałości przy trafieniu atakiem.</string>
-	<string name="modifiers.misc.attack_hit_mana_chance.desc">%szansa%% na przywrócenie %wartości% many przy trafieniu atakiem.</string>
+	<string name="modifiers.misc.attack_hit_health_chance.desc">%chance%% na przywrócenie %value% zdrowia przy trafieniu atakiem.</string>
+	<string name="modifiers.misc.attack_hit_stamina_chance.desc">%chance%% na przywrócenie %value% wytrzymałości przy trafieniu atakiem.</string>
+	<string name="modifiers.misc.attack_hit_mana_chance.desc">%chance%% na przywrócenie %value% many przy trafieniu atakiem.</string>
 	<string name="modifiers.enchant.blackheart.prefix">Blackheart</string>
 	<string name="modifiers.enchant.blackheart.suffix">korupcji</string>
 	<string name="modifiers.damage_taken.desc">%desc%% więcej otrzymanych obrażeń.</string>
@@ -315,7 +315,7 @@
 
 	<string name="menu.player.stats.mainhand">Mainhand</string>
 	<string name="menu.player.stats.offhand">Z ręki</string>
-	<string name="menu.player.stats.damage">Uszkodzenie</string>
+	<string name="menu.player.stats.damage">Obrażenia</string>
 
 
 	<string name="dialogue.player_door_locked_generic">Zamknięte!</string>
